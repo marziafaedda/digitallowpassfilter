@@ -1,0 +1,9 @@
+#python requirements
+
+#'conda activate filterenv' to activate the environment
+#'pip install -r requirements' to install the requirements
+numpy
+jupyter
+matplotlib
+scipy
+pandas
